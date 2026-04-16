@@ -1,3 +1,5 @@
+A blockchain-based certificate verification system that ensures authenticity and prevents forgery using smart contracts and MetaMask.
+
 # Run and deploy your AI Studio app
 
 This contains everything you need to run your app locally.
