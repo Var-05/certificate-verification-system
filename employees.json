@@ -1,0 +1,16 @@
+[
+  {
+    "employeeId": "EMP12345",
+    "name": "John Doe",
+    "previousCompany": "Tech Solutions Inc",
+    "salary": "85,000",
+    "experience": "5 Years"
+  },
+  {
+    "employeeId": "EMP67890",
+    "name": "Jane Smith",
+    "previousCompany": "Global Systems",
+    "salary": "92,000",
+    "experience": "7 Years"
+  }
+]

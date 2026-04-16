@@ -1,0 +1,7 @@
+{
+  "name": "AuthenticChain",
+  "description": "Blockchain-based academic certificate validator and employee PF verification system.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
